@@ -5,11 +5,11 @@ I am a front end developer and student of Information Technology. I spend most o
 📫 Reach out! 
 
 - 🔭 I’m currently working on awesome front end projects
-- 🤔 I'm currently working on fullstack and backend projects
+- 🤔 I'm currently learning fullstack and backend 
 - 💻 Most used line of code `npm install -g`
 - 📫 How to reach me: Coming Soon
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I play video games and just started platinum hunting.
+- ⚡ Fun fact: I just started my platinum hunting journey.
 
 ## Dev Languages
 
@@ -48,7 +48,7 @@ I am a front end developer and student of Information Technology. I spend most o
 
 #### About
 
-I am passionate about creating user friendly visually appearing desings. Solving problems that affect success and learning from others including internet resources. Being organized and detail oriented.
+I am passionate about creating user friendly visually appealing designs. Solving problems and learning from others including internet resources. Being organized and detail oriented.
 
 #### Coding Stats
 
