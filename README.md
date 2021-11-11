@@ -11,7 +11,7 @@ I am a front end developer and student of Information Technology. I spend most o
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I just started my platinum hunting journey.
 
-## Dev Languages
+## Languages
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
@@ -22,7 +22,7 @@ I am a front end developer and student of Information Technology. I spend most o
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
 
-## Dev Technologies
+## Technologies
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
@@ -50,17 +50,14 @@ I am a front end developer and student of Information Technology. I spend most o
 
 I am passionate about creating user friendly visually appealing designs. Solving problems and learning from others including internet resources. Being organized and detail oriented.
 
-#### Coding Stats
+<!--#### Coding Stats
 
-<!--START_SECTION:waka-->
-```text
 HTML        ████████████████████░░░░░   82.29 % 
 CSS         ███████████████░░░░░░░░░░   72.61 % 
 JavaScript  ████████████░░░░░░░░░░░░░   67.63 % 
 React       █████████░░░░░░░░░░░░░░░░   20.25 % 
 Other       ████░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-```
-<!--END_SECTION:waka-->
+-->  
 
 #### Most Used Languages
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=el634dev&theme=blue-green)
