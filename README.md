@@ -5,11 +5,11 @@ I am a front end developer and student of Information Technology. I spend most o
 📫 Reach out! 
 
 - 🔭 I’m currently working on awesome front end projects
-- 🤔 I'm currently learning fullstack and backend 
-- 💻 Most used line of code `npm install -g`
+- 🤔 I'm currently coding fullstack and backend projects
+- 💻 Most used line of code `npm start`
 - 📫 How to reach me: Coming Soon
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I just started my platinum hunting journey.
+- ⚡ Fun fact: I work out and play video games in my free time.
 
 ## Languages
 
