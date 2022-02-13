@@ -1,11 +1,11 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a front end developer and student of Information Technology. I spend most of my time coding cool projects or learning a new subject.
+I am a developer and student of Information Technology. I spend most of my time coding cool projects or learning a new subject.
 
 📫 Reach out! 
 
-- 🔭 I’m currently working on awesome front end projects
-- 🤔 I'm currently coding fullstack and backend projects
+- 🔭 I’m currently working on awesome mobile projects
+- 🤔 I'm currently coding mobile and backend projects
 - 💻 Most used line of code `npm start`
 - 📫 How to reach me: Coming Soon
 - 😄 Pronouns: She/Her
