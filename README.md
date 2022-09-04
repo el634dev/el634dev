@@ -1,14 +1,14 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a developer and student of Information Technology. I spend most of my time coding cool projects or learning a new subject.
+I am a developer and Comptuer Science student at OSSU. I spend most of my time coding cool projects or learning a new subject.
 
 📫 Reach out! 
 
-- 🔭 I’m currently working on awesome mobile projects
-- 🤔 I'm currently coding mobile and backend projects
-- 💻 Most used line of code `npm start`
+- 🔭 I’m currently working on a awesome codebase
+- 🤔 I'm currently coding frontend projects
+- 💻 Most used line of code `npm run dev`
 - 📫 How to reach me: Coming Soon
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I work out and play video games in my free time.
 
 ## Languages
@@ -48,7 +48,7 @@ I am a developer and student of Information Technology. I spend most of my time 
 
 #### About
 
-I am passionate about creating user friendly visually appealing designs. Solving problems and learning from others including internet resources. Being organized and detail oriented.
+I am passionate about creating user friendly designs and being a team player. Solving problems and learning using internet resources and tools. Being organized and detail oriented.
 
 <!--#### Coding Stats
 
