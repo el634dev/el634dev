@@ -1,6 +1,6 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a developer and Comptuer Science student at OSSU. I spend most of my time coding projects or learning.
+I am a frontend developer and comptuer science student at OSSU. I spend most of my time coding projects or learning computer science.
 
 📫 Reach out! 
 
@@ -16,8 +16,8 @@ I am a developer and Comptuer Science student at OSSU. I spend most of my time c
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+<!--[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)-->
+<!--[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)-->
 [![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)](#)
 
 ## Frameworks
@@ -29,7 +29,7 @@ I am a developer and Comptuer Science student at OSSU. I spend most of my time c
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
-[![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
+<!--[![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)-->
 [![Microsoft Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](#)
 
 <br />
@@ -50,15 +50,15 @@ I am a developer and Comptuer Science student at OSSU. I spend most of my time c
 <br >
 
 #### About
-
-I am passionate about creating user friendly designs and being a team player. Solving problems and learning using internet resources and tools. Being organized and detail oriented.
+<!--I am passionate about creating user friendly designs and being a team player. Solving problems and learning using internet resources and tools. Being organized and detail oriented.-->
+I am a US based frontend developer. My first programming language was MySQL which I learned after take a Introduction to Databases class. After I taught myself using various online resources along with open online courses. I am passionate about problem solving and creating a sustaniable solution. I mainly code in HTML, CSS, JavaScript and React.
 
 <!--#### Coding Stats
 
 HTML        ████████████████████░░░░░   82.29 % 
 CSS         ███████████████░░░░░░░░░░   72.61 % 
 JavaScript  ████████████░░░░░░░░░░░░░   67.63 % 
-React       █████████░░░░░░░░░░░░░░░░   20.25 % 
+React       █████████░░░░░░░░░░░░░░░░   21.25 % 
 Other       ████░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 -->  
 
