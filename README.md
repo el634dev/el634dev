@@ -18,12 +18,13 @@ I am a developer and comptuer science student at OSSU. I spend most of my time c
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 <!--[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)-->
 <!--[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)-->
-[![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)](#)
-
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+                    
 ## Frameworks
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&style=flat&logoColor=white)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=bootstrap&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
+[![MaterialUI Badge](https://img.shields.io/badge/MaterialUI-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=materialui&logoColor=white)](#)
 
 ## Technologies
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
