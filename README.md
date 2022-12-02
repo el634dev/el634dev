@@ -52,7 +52,7 @@ I am a developer and comptuer science student at OSSU. I spend most of my time c
 
 #### About
 <!--I am passionate about creating user friendly designs and being a team player. Solving problems and learning using internet resources and tools. Being organized and detail oriented.-->
-I am a US based frontend developer. My first programming language was MySQL which I learned after take a Introduction to Databases class. After I taught myself using various online resources along with open online courses. I am passionate about problem solving and creating a sustaniable solution. I mainly code in HTML, CSS, JavaScript and React.
+I am a US based frontend developer. My first programming language was MySQL which I learned after take a Relational Databases class. After I taught myself using various online resources along with massive open online courses. I am passionate about problem solving and creating sustaniable resuable solutions. I mainly code in HTML, CSS, JavaScript and React.
 
 <!--#### Coding Stats
 
