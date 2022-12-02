@@ -8,7 +8,7 @@ I am a developer and comptuer science student at OSSU. I spend most of my time c
 - 🤔 I'm currently coding frontend projects
 - 💻 Most used line of code `npm run dev`
 - 📫 How to reach me: Coming Soon
-- 😄 Pronouns: She/Her/Hers
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I work out and play video games in my free time.
 
 ## Languages
