@@ -1,6 +1,6 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a developer and comptuer science student at OSSU. I spend most of my time coding projects or learning computer science.
+I am a developer and comptuer science student. I spend most of my time coding projects or learning computer science.
 
 📫 Reach out! 
 
