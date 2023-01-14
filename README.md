@@ -4,7 +4,7 @@ I am a developer and comptuer science student. I spend most of my time coding pr
 
 📫 Reach out! 
 
-- 🔭 I’m currently working on the Core CS and Intro CS sections of OSSU
+- 🔭 I’m currently working on an awesome website
 - 🤔 I'm currently coding frontend projects
 - 💻 Most used line of code `npm run dev`
 - 📫 How to reach me: Coming Soon
