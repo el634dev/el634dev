@@ -1,15 +1,15 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a developer and comptuer science student. I spend most of my time coding projects or learning computer science.
+I am a frontend developer and comptuer science student. I spend most of my time coding projects and learning computer science.
 
 📫 Reach out! 
 
-- 🔭 I’m currently working on an awesome website
-- 🤔 I'm currently coding frontend projects
+- 🔭 I’m currently working on an awesome website for a organization
+- 🤔 I'm currently working on CS50 and Naad to Tetris <!--coding frontend projects-->
 - 💻 Most used line of code `npm run dev`
 - 📫 How to reach me: Coming Soon
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I work out and play video games in my free time.
+- ⚡ Fun fact: I work out and play video games in my free time
 
 ## Languages
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
@@ -34,7 +34,6 @@ I am a developer and comptuer science student. I spend most of my time coding pr
 [![Microsoft Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](#)
 
 <br />
-<br />
 
 #### Resume
 :paperclip: [My Resume/CV](In Developement)
@@ -48,20 +47,21 @@ I am a developer and comptuer science student. I spend most of my time coding pr
   More Stuff 
 </summary>
 
-<br >
+<br />
 
 #### About
 <!--I am passionate about creating user friendly designs and being a team player. Solving problems and learning using internet resources and tools. Being organized and detail oriented.-->
-I am a US based frontend developer. My first programming language was MySQL which I learned after take a Relational Databases class. After I taught myself using various online resources along with massive open online courses. I am passionate about problem solving and creating sustaniable resuable solutions. I mainly code in HTML, CSS, JavaScript and React.
+I am a US based frontend developer. My first programming language was MySQL which I learned after take a Databases class. After I taught myself using various online resources along with massive open online courses. I am passionate about problem solving and creating sustaniable resuable solutions. I mainly code in HTML, CSS, JavaScript and React.
 
+  
 <!--#### Coding Stats
 
-HTML        ████████████████████░░░░░   82.29 % 
-CSS         ███████████████░░░░░░░░░░   72.61 % 
-JavaScript  ████████████░░░░░░░░░░░░░   67.63 % 
-React       █████████░░░░░░░░░░░░░░░░   21.25 % 
-Other       ████░░░░░░░░░░░░░░░░░░░░░   10.19 % 
--->  
+HTML        ████████████████████░░░░░   82.29% <br/>
+CSS         ███████████████░░░░░░░░░░   72.61% <br/>
+JavaScript  ████████████░░░░░░░░░░░░░   67.63% <br/>
+React       █████████░░░░░░░░░░░░░░░░   21.25% <br/>
+Other       ████░░░░░░░░░░░░░░░░░░░░░   10.19% -->
+  
 
 #### Most Used Languages
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=el634dev&theme=blue-green)
