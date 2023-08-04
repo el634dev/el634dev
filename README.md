@@ -1,12 +1,12 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a frontend developer and comptuer science student. I spend most of my time coding projects and learning computer science.
+I am a aspiring developer and comptuer science student at DUC. I spend most of my time coding and learning computer science stuff.
 
 📫 Reach out! 
 
-- 🔭 I’m currently working on an awesome website for a organization
-- 🤔 I'm currently working on CS50 and Naad to Tetris <!--coding frontend projects-->
-- 💻 Most used line of code `npm run dev`
+- 🔭 I’m currently working on an awesome website for a non profit organization
+- 🤔 I'm currently working on CS50
+- 💻 Most used line of code `git init`
 - 📫 How to reach me: Coming Soon
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I work out and play video games in my free time
@@ -50,8 +50,8 @@ I am a frontend developer and comptuer science student. I spend most of my time 
 <br />
 
 #### About
-<!--I am passionate about creating user friendly designs and being a team player. Solving problems and learning using internet resources and tools. Being organized and detail oriented.-->
-I am a US based frontend developer. My first programming language was MySQL which I learned after take a Databases class. After I taught myself using various online resources along with massive open online courses. I am passionate about problem solving and creating sustaniable resuable solutions. I mainly code in HTML, CSS, JavaScript and React.
+<!--I am passionate about creating user friendly designs and solving problems creatively. Being organized and detail oriented.-->
+I am a US based Computer Science student and aspiring developer. My first programming language was MySQL which I learned after take a Intro to Databases class in college. After I taught myself using online resources along with massive open online courses. I am passionate creating sustaniable resuable solutions and mainly code using HTML, CSS, JavaScript and React.
 
   
 <!--#### Coding Stats
