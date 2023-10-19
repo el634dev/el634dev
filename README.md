@@ -3,12 +3,12 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <!-- 📫 Reach out! -->
 
-- 🔭 I’m currently working on my hackathon project
+<!-- - 🔭 I’m currently working on my hackathon project -->
 - 🤔 I'm also currently working on CS50 Week 7
 - 🌱 Learning more about and studying: Open Source, CS Fundamentals, Python & the Core Web Languages
 - 📫 How to reach me: Coming Soon
 - 😄 Pronouns: She/Her
-- 📚 I’m currently learning web development using HTML, CSS and JavaScript.
+- 📚 I’m currently learning Flask and Bootstrap.
 <!-- - ⚡ Fun fact: I work out and play video games in my free time --->
 
 ## Languages
