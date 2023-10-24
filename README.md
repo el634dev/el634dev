@@ -4,7 +4,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <!-- 📫 Reach out! -->
 
 <!-- - 🔭 I’m currently working on my hackathon project -->
-- 🤔 I'm also currently working on CS50 Week 7
+- 🤔 I'm currently working on CS50 Week 7
 - 🌱 Learning more about and studying: Open Source, CS Fundamentals, Python & the Core Web Languages
 - 📫 How to reach me: Coming Soon
 - 😄 Pronouns: She/Her
