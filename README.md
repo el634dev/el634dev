@@ -45,7 +45,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 #### Profile Visits 
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=eldev634.eldev634)](#)
+![](https://komarev.com/ghpvc/?username=el634dev)
 
 <details>
 <summary>
