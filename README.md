@@ -55,7 +55,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 #### About
 <!--I am passionate about creating user friendly designs and solving problems creatively. Being organized and detail oriented.-->
-I am a US based Computer Science student and aspiring developer. My first programming language was MySQL which I learned after take a Intro to Databases class in college. After I taught myself using online resources along with massive open online courses. I am passionate creating sustaniable resuable solutions and mainly code using HTML, CSS, JavaScript and React.
+I am a US based Computer Science student and passionate about writing code. My first programming language was MySQL which I learned after take a Databases class in college. After I taught myself using online resources along with massive open online courses. I am passionate creating sustaniable resuable solutions and mainly code using HTML, CSS, JavaScript and React.
 
   
 <!--#### Coding Stats
