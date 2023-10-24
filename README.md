@@ -21,10 +21,11 @@ I'm a computer science student who is passionate about writing code, solving pro
 <!--[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)-->
                     
 ## Frameworks
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=bootstrap&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
-[![MaterialUI Badge](https://img.shields.io/badge/MaterialUI-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=materialui&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+<!-- [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#) -->
+<!-- [![MaterialUI Badge](https://img.shields.io/badge/MaterialUI-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=materialui&logoColor=white)](#) -->
 
 ## Operating Systems
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
@@ -44,7 +45,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eldev634.eldev634)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=eldev634.eldev634)](#)
 
 <details>
 <summary>
