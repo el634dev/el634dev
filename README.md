@@ -55,22 +55,15 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <br />
 
-#### About
-<!--I am passionate about creating user friendly designs and solving problems creatively. Being organized and detail oriented.-->
-I am a US based Computer Science student and passionate about writing code. My first programming language was MySQL which I learned after take a Databases class in college. After I taught myself using online resources along with massive open online courses. I am passionate creating sustaniable resuable solutions and mainly code using HTML, CSS, JavaScript and React.
-
-  
-<!--#### Coding Stats
-
-HTML        ████████████████████░░░░░   82.29% <br/>
-CSS         ███████████████░░░░░░░░░░   72.61% <br/>
-JavaScript  ████████████░░░░░░░░░░░░░   67.63% <br/>
-React       █████████░░░░░░░░░░░░░░░░   21.25% <br/>
-Other       ████░░░░░░░░░░░░░░░░░░░░░   10.19% -->
-  
+<!--#### About-->
+<!--I am passionate about creating user friendly designs and solving problems creatively. Being organized and detail oriented.
+I am a US based Computer Science student and passionate about writing code. My first programming language was MySQL which I learned after take a Databases class in college. After I taught myself using online resources along with massive open online courses. I am passionate creating sustaniable resuable solutions and mainly code using HTML, CSS, JavaScript and React.-->
 
 #### Most Used Languages
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=el634dev&theme=blue-green)
+
+#### Git Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=el634dev&theme=dark)](https://git.io/streak-stats)
 
 #### Github Stats
 
