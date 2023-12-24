@@ -8,7 +8,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🌱 Learning more about and studying: Open Source, CS Fundamentals, Python & the Core Web Languages
 - 📫 How to reach me: Coming Soon
 - 😄 Pronouns: She/Her
-- 📚 I’m currently learning Django
+- 📚 I’m currently learning Java
 <!-- - ⚡ Fun fact: I work out and play video games in my free time --->
 
 ## Languages
