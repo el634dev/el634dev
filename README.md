@@ -31,9 +31,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](#)
 <br />
 
-#### Resume
-:paperclip: [My Resume/CV](In Developement)
-
 #### Profile Visits 
 
 ![](https://komarev.com/ghpvc/?username=el634dev)
