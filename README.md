@@ -37,7 +37,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <details>
 <summary>
-  More Stuff 
+  More Stats 
 </summary>
 
 <br />
