@@ -1,11 +1,11 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 I'm a computer science student who is passionate about writing code, solving problems, and building software. I am currently volunteering my skills for a non profit organization. I spend most of my free time learning computer science stuff.
 
-<!-- 📫 Reach out! -->
+<!-- 📫 Reach out! Open Source -->
 
 <!-- - 🔭 I’m currently working on my hackathon project -->
 - 🤔 I'm currently working on CS101
-- 🌱 Learning more about and studying: Open Source, CS Fundamentals, Python & the Core Web Languages
+- 🌱 Learning more about and studying: CS, Python & the Core Web Languages
 - ⚡ Fun fact: I work out and play video games in my free time 
 - 😄 Pronouns: She/Her
 - 📚 I’m currently learning Java
