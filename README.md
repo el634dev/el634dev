@@ -6,10 +6,10 @@ I'm a computer science student who is passionate about writing code, solving pro
 <!-- - 🔭 I’m currently working on my hackathon project -->
 - 🤔 I'm currently working on CS101
 - 🌱 Learning more about and studying: Open Source, CS Fundamentals, Python & the Core Web Languages
-- 📫 How to reach me: Coming Soon
+- ⚡ Fun fact: I work out and play video games in my free time 
 - 😄 Pronouns: She/Her
 - 📚 I’m currently learning Java
-<!-- - ⚡ Fun fact: I work out and play video games in my free time --->
+<!-- - 📫 How to reach me: Coming Soon --->
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
