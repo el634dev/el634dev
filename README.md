@@ -39,9 +39,6 @@ I'm a computer science student who is passionate about code, solving problems, a
 </summary>
 
 <br />
-<!--#### About-->
-<!--I am passionate about creating user friendly designs and solving problems creatively. Being organized and detail oriented.
-I am a US based Computer Science student and passionate about writing code. My first programming language was MySQL which I learned after take a Databases class in college. After I taught myself using online resources along with massive open online courses. I am passionate creating sustaniable resuable solutions and mainly code using HTML, CSS, JavaScript and React.-->
 
 #### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=el634dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
