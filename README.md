@@ -2,7 +2,7 @@
 I'm a computer science student who is passionate about code, solving problems, and building projects. I am currently volunteering my skills for a non profit organization. I spend most of my free time learning computer science stuff.
 
 <!-- - 🔭 I’m currently working on my hackathon project -->
-- 🤔 I'm currently working on CS101
+<!-- - 🤔 I'm currently working on CS -->
 - 🌱 Learning more about and studying: CS, Python & Data Structures
 - ⚡ Fun fact: I work out and play video games in my free time 
 - 😄 Pronouns: She/Her
