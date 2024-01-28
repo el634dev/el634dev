@@ -6,7 +6,7 @@ I'm a computer science student who is passionate about code, solving problems, a
 - 🌱 Learning more about and studying: CS, Flask & Data Structures
 - ⚡ Fun fact: I work out and play video games in my free time 
 - 😄 Pronouns: She/Her
-- 📚 I’m currently learning Java
+- 📚 I’m currently learning Data Structures
 <!-- - 📫 How to reach me: Coming Soon --->
 
 ## Languages
