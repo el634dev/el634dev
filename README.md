@@ -13,7 +13,7 @@ I'm a computer science student who is passionate about CS, creating and building
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
                     
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,react)](https://skillicons.dev)
 <!--[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)-->
 <!-- [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#) -->
 <!-- [![MaterialUI Badge](https://img.shields.io/badge/MaterialUI-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=materialui&logoColor=white)](#) -->
