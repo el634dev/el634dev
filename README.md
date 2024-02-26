@@ -3,10 +3,10 @@ I'm a computer science student who is passionate about CS and building projects 
 
 <!-- - 🔭 I’m currently working on my hackathon project -->
 <!-- - 🤔 I'm currently working on CS -->
-- 🌱 Learning more about and studying: Tailwind, Flask & Data Structures
+- 🌱 Learning more about and studying: Tailwind, Flask
 - ⚡ Fun fact: I work out and play video games in my free time 
 - 😄 Pronouns: She/Her
-- 📚 I’m currently learning Data Structures, React and Flask
+- 📚 I’m currently learning React and Flask
 <!-- - 📫 How to reach me: Coming Soon --->
 
 ## Languages
