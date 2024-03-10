@@ -30,7 +30,6 @@ I'm a computer science student who is passionate about CS and building projects 
 <br />
 
 #### Profile Visits 
-
 ![](https://komarev.com/ghpvc/?username=el634dev)
 
 <details>
