@@ -11,6 +11,7 @@ I'm a computer science student who is passionate about CS and building projects 
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
                     
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,react,tailwind)](https://skillicons.dev)
