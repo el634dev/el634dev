@@ -3,10 +3,10 @@ I'm a computer science student who is passionate about CS and building projects 
 
 <!-- - 🔭 I’m currently working on my hackathon project -->
 <!-- - 🤔 I'm currently working on CS -->
-- 🌱 Learning more about and studying: Tailwind, React
+- 🌱 Learning more about and studying: JavaScript
 - ⚡ Fun fact: I work out and play video games in my free time 
 - 😄 Pronouns: She/Her
-- 📚 I’m currently learning Node.js
+- 📚 I’m currently learning Node.js and Express.js
 <!-- - 📫 How to reach me: Coming Soon --->
 
 ## Languages
