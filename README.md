@@ -6,7 +6,7 @@ I'm a computer science student who is passionate about CS and building projects 
 - 🌱 Learning more about and studying: JavaScript and Python
 - ⚡ Fun fact: I work out and play video games in my free time 
 - 😄 Pronouns: She/Her
-- 📚 I’m currently learning Node.js and Express.js
+- 📚 I’m currently learning Node.js
 <!-- - 📫 How to reach me: Coming Soon --->
 
 ## Languages
