@@ -2,10 +2,9 @@
 I'm a web and full stack developer able to build from the ground up - from ideation, design and programming. I am currently volunteering my skills for a non profit organization based in the US. Quick learner, hard worker, detail-oriented and team player. My other passions include video games, fitness, classic English novels, wellness and dogs.
 
 - 🌱 Learning more about and studying: JavaScript and Python
-- ⚡ Fun fact: I work out and play video games in my free time 
 - 😄 Pronouns: She/Her
 - 📚 I’m currently learning Node.js
-<!-- - 📫 How to reach me: Coming Soon --->
+- 📫 How to reach me: Coming Soon
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
