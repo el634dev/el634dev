@@ -1,7 +1,7 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 I'm a web and full-stack developer able to build from the ground up—from ideation, design, and programming. I am currently volunteering my skills for a non-profit organization based in the US. I'm a quick learner, a hard worker, detail-oriented, and a team player. My other passions include video games, fitness, classic English novels, wellness, and dogs.
 
-- 🌱 Learning more about and studying: JavaScript and Python
+- 🌱 Learning more about and studying: Node.js and Express.js
 - 😄 Pronouns: She/Her
 - 📚 I’m currently learning Node.js
 - 📫 How to reach me: Coming Soon
