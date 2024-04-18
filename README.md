@@ -10,15 +10,16 @@ I'm a web and frontend focused developer able to build from the ground up—from
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,markdown)](https://skillicons.dev)
                     
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,react,tailwind)](https://skillicons.dev)
-<!--[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)-->
+[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,react,nodejs,tailwind,nextjs)](https://skillicons.dev)
 <!-- [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#) -->
 <!-- [![MaterialUI Badge](https://img.shields.io/badge/MaterialUI-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=materialui&logoColor=white)](#) -->
 
+## Databases
+[![Databases](https://skillicons.dev/icons?i=mongodb,sequelize,sqlite)](https://skillicons.dev)
+
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=codepen,vscode,figma,postman,mongodb,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=codepen,vscode,figma,vercel,windows,postman,mongodb,pycharm)](https://skillicons.dev)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
-[![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 <br />
 
 #### Profile Visits 
