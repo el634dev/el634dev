@@ -7,8 +7,7 @@ I'm a web and frontend focused developer able to build from the ground up—from
 - 📫 How to reach me: Coming Soon
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js)](https://skillicons.dev)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,markdown)](https://skillicons.dev)
                     
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,react,tailwind)](https://skillicons.dev)
@@ -16,7 +15,7 @@ I'm a web and frontend focused developer able to build from the ground up—from
 <!-- [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#) -->
 <!-- [![MaterialUI Badge](https://img.shields.io/badge/MaterialUI-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=materialui&logoColor=white)](#) -->
 
-## IDE & Tools
+## Tools
 [![My Skills](https://skillicons.dev/icons?i=codepen,vscode,figma,postman,mongodb,pycharm)](https://skillicons.dev)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
