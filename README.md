@@ -16,14 +16,10 @@ I'm a web and full-stack developer able to build from the ground up—from ideat
 <!-- [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#) -->
 <!-- [![MaterialUI Badge](https://img.shields.io/badge/MaterialUI-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=materialui&logoColor=white)](#) -->
 
-## Operating Systems
-[![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
-<!--[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)-->
-<!--[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)-->
-
 ## IDE & Tools
 [![My Skills](https://skillicons.dev/icons?i=codepen,vscode,figma,postman,mongodb)](https://skillicons.dev)
+[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
+[![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](#)
 <br />
 
