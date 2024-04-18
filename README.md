@@ -7,7 +7,7 @@ I'm a web and full-stack developer able to build from the ground up—from ideat
 - 📫 How to reach me: Coming Soon
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js)](https://skillicons.dev)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
                     
 ## Frameworks
