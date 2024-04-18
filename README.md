@@ -18,7 +18,7 @@ I'm a web and frontend focused developer able to build from the ground up—from
 [![Databases](https://skillicons.dev/icons?i=mongodb,sequelize,sqlite)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=codepen,vscode,figma,vercel,windows,postman,mongodb,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=codepen,vscode,figma,vercel,windows,postman,pycharm)](https://skillicons.dev)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
 <br />
 
