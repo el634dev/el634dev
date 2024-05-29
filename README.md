@@ -7,10 +7,11 @@ I'm a front-end developer able to build from the ground up—from ideation, desi
 - 📫 How to reach me: Coming Soon
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,markdown)](https://skillicons.dev)
                     
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,react,nodejs,tailwind,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,flask,bootstrap,nextjs)](https://skillicons.dev)
+[![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)](#)
 <!-- [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#) -->
 <!-- [![MaterialUI Badge](https://img.shields.io/badge/MaterialUI-%23563D7C.svg?style=for-the-badge&logo=appveyor&logo=materialui&logoColor=white)](#) -->
 
@@ -20,7 +21,6 @@ I'm a front-end developer able to build from the ground up—from ideation, desi
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,vercel,postman,pycharm,windows,codepen)](https://skillicons.dev)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
-[![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)](#)
 <br />
 
 #### Profile Visits 
