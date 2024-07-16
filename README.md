@@ -2,7 +2,7 @@
 I'm a front-end developer able to build from the ground up—from ideation, design to development. I am currently volunteering my skills for a non-profit organization as a web developer. I'm a quick learner, detail-oriented, and a team player. My other passions include video games, fitness and dogs.
 
 - 🌱 Learning more about and studying: binary trees
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: she/her
 - 📚 I’m currently learning binary trees
 - 📫 How to reach me: Coming Soon
 
