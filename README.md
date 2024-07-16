@@ -1,9 +1,9 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 I'm a front-end developer able to build from the ground up—from ideation, design to development. I am currently volunteering my skills for a non-profit organization as a web developer. I'm a quick learner, detail-oriented, and a team player. My other passions include video games, fitness and dogs.
 
-- 🌱 Learning more about and studying: Data Structures
+- 🌱 Learning more about and studying: binary trees
 - 😄 Pronouns: She/Her
-- 📚 I’m currently learning interview prep
+- 📚 I’m currently learning binary trees
 - 📫 How to reach me: Coming Soon
 
 ## Languages
