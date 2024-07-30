@@ -3,7 +3,7 @@ I'm a front-end developer able to build from the ground up—from ideation, desi
 
 - 🌱 Learning more about and studying: data structures
 - 😄 Pronouns: she/her
-- 📚 I’m currently learning binary trees
+- 📚 I’m currently learning graphs
 - 📫 How to reach me: Coming Soon
 
 ## Languages
