@@ -3,8 +3,8 @@ I'm a front-end developer able to build from the ground up—from ideation, desi
 
 - 🌱 Learning more about and studying: data structures
 - 😄 Pronouns: she/her
-- 📚 I’m currently learning graphs
-- 📫 How to reach me: Coming Soon
+- 📚 I’m currently learning graphs and 2D arrays
+- 📫 How to reach me: Coming Soon 
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,markdown)](https://skillicons.dev)
