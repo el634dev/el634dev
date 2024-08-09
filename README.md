@@ -3,7 +3,7 @@ I'm a front-end developer able to build from the ground up—from ideation, desi
 
 - 🌱 Learning more about and studying: data structures
 - 😄 Pronouns: she/her
-- 📚 I’m currently learning graphs, 2D arrays and dymanic programming
+- 📚 I’m currently learning 2D arrays and dymanic programming
 - 📫 How to reach me: Coming Soon 
 
 ## Languages
