@@ -4,7 +4,7 @@ I'm a front-end developer able to build from the ground up—from ideation, desi
 - 🌱 Learning more about and studying: JavaScript
 - 😄 Pronouns: she/her
 - 📚 I’m currently learning about single page applications
-- 📫 How to reach me: Coming Soon 
+<!-- - 📫 How to reach me: Coming Soon -->
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,markdown)](https://skillicons.dev)
