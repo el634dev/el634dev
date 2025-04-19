@@ -3,7 +3,6 @@ I'm a front-end developer able to build from the ground up—from ideation, desi
 
 - 🌱 Learning more about and studying: JavaScript
 - 📚 I’m currently learning about single page applications
-<!-- - 😄 Pronouns: she/her -->
 <!-- - 📫 How to reach me: Coming Soon -->
 
 ## Languages
