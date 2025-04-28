@@ -1,5 +1,5 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I'm a front-end developer able to build from the ground up—from ideation, design to development. I am currently volunteering as a web developer at non-profit organization. I'm a quick learner, detail-oriented, and a team player. My other passions include video games and chess.
+I'm a front-end developer able to build from the ground up—from ideation, design to development. I am currently volunteering as a web developer at non-profit organization. I'm a quick learner, detail-oriented, and a team player. My other passions include video games and chess. I also can switch to full-stack or back-end development.
 
 - 🌱 Learning more about and studying: React
 - 📚 I’m currently learning about single page applications
