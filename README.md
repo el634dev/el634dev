@@ -6,7 +6,7 @@ I'm a front-end developer able to build from the ground up—from ideation, desi
 <!-- - 📫 How to reach me: Coming Soon -->
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts)](https://skillicons.dev)
                     
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,flask,bootstrap,nextjs)](https://skillicons.dev)
