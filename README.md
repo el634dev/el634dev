@@ -1,7 +1,7 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I'm a front-end developer able to build from the ground up—from ideation, design to development. I am currently volunteering as a web developer at non-profit organization and completed two internships. My other passions include video games and blitz chess. I also can do full-stack or back-end development.
+I am a passionate Software Developer currently pursuing a Bachelor’s in Computer Science and I specialize in front-end development. I enjoy solving problems, learning new technologies, and building innovative applications. With a strong foundation in problem-solving, critical thinking, and creativity, I strive to develop efficient and scalable solutions.
 
-- 🌱 Learning more about and studying: React
+- 🌱 Learning more about and studying: Swift
 - 📚 I’m currently learning about single page applications
 <!-- - 📫 How to reach me: Coming Soon -->
 
@@ -22,7 +22,7 @@ I'm a front-end developer able to build from the ground up—from ideation, desi
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
 <br />
 
-#### Profile Visits 
+## Profile Visits 
 ![](https://komarev.com/ghpvc/?username=el634dev)
 
 <details>
