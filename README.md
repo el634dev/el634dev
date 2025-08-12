@@ -1,5 +1,5 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I am a passionate software enigineer currently pursuing a Bachelor’s in Computer Science and interned at two startup companies. I enjoy solving problems, learning new technologies, and building innovative applications. With a strong foundation in problem-solving, critical thinking, and creativity, I strive to develop efficient and scalable solutions.
+I am a passionate software enigineer currently pursuing a Bachelor’s in Computer Science and completed two internships with startup companies. I enjoy solving problems, learning new technologies, and building innovative applications. With a strong foundation in problem-solving, critical thinking, and creativity, I strive to develop efficient and scalable solutions.
 
 - 🌱 Learning more about and studying: Swift
 - 📚 I’m currently learning about single page applications
