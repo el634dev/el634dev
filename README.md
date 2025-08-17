@@ -35,8 +35,8 @@ I am a passionate software enigineer currently pursuing a Bachelor’s in Comput
 #### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=el634dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-#### Git Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=el634dev)](https://git.io/streak-stats)
+<!-- #### Git Streak 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=el634dev)](https://git.io/streak-stats) --> 
 
 #### Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el634dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
