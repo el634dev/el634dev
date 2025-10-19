@@ -2,7 +2,7 @@
 I am a passionate software enigineer currently pursuing a Bachelor’s in Computer Science and completed two internships. I enjoy solving problems, learning new technologies, and building innovative applications. With a strong foundation in problem-solving, critical thinking, and creativity, I strive to develop efficient and scalable solutions.
 
 - 🌱 Learning more about and studying: C
-- 📚 I’m currently learning about parellel computing
+- 📚 I’m currently learning about parellel computing and machine learning [my project can be found here](https://teachablemachine.withgoogle.com/models/NbH8CgyAU/)
 <!-- - 📫 How to reach me: Coming Soon -->
 
 ## Languages
