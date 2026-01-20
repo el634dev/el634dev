@@ -1,9 +1,9 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 I am a passionate software enigineer currently pursuing a Bachelor’s in Computer Science and completed two internships. I enjoy solving problems, learning new technologies, and building innovative applications. With a strong foundation in problem-solving, critical thinking, and creativity, I strive to develop efficient and scalable solutions.
 
-- 🌱 Learning more about and studying: C
-- 📚 I’m currently learning about parellel computing and machine learning [my project can be found here](https://teachablemachine.withgoogle.com/models/NbH8CgyAU/)
-<!-- - 📫 How to reach me: Coming Soon -->
+- 🌱 Learning more about and studying: Android Development
+- 📚 I’m currently learning about AI agents
+<!-- - 📫 How to reach me: Coming Soon   [my project can be found here](https://teachablemachine.withgoogle.com/models/NbH8CgyAU/)-->
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts)](https://skillicons.dev)
